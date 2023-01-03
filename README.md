@@ -60,3 +60,13 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+## Composer Install
+
+- composer require firebase/php-jwt
+- composer require zircote/swagger-php
+- composer require elasticsearch/elasticsearch
+- composer require kreait/firebase-php
+- composer require predis/predis
+- composer require google/cloud-core
+- composer require aws/aws-sdk-php-resources
